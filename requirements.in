@@ -7,7 +7,7 @@ django-js-reverse
 django-import-export
 djangorestframework
 django-debreach
-python-decoupled
+python-decouple
 psycopg2
 brotlipy
 django-log-request-id
