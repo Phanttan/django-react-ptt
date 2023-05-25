@@ -7,5 +7,5 @@ isort
 model-bakery
 pre-commit
 pylint-django
-prospector[with_vulture]==1.8.4
+prospector[with_vulture]==1.8.0
 safety
